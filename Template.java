@@ -1,4 +1,4 @@
-// package part.class;
+// package part2.class;
 
 import java.util.Scanner;
 
